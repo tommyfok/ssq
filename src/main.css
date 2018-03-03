@@ -1,0 +1,49 @@
+#num-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#num-list span {
+    display: inline-block;
+    margin: 10px;
+    width: 30px;
+    color: blue;
+    text-align: center;
+    background: #fafafa;
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+#num-list span:last-child {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button {
+    width: 40%;
+    margin: 0 10px;;
+    border-radius: 5px;
+    border: none;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+#make {
+    color: #fff;
+    background: red;
+}
+
+.btns {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
